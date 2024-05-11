@@ -1,0 +1,5 @@
+git 
+git add .
+git commit -m "lnitial commit"
+git branch -m main
+git remote add origin https://github.com/username/repository.git
